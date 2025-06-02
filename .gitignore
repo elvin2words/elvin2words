@@ -1,0 +1,21 @@
+node_modules
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
+.env
+.replit
+desFlow.md
+nodejs.md
+notes.md
+run.md
+steps.md
+attached_assets
+
+# Ignore all Markdown files
+# Ignore all .md files in all directories
+**/*.md
+
+# But do NOT ignore these specific ones
+!README.md
