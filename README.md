@@ -4,7 +4,7 @@
     <b><a target="_blank" href="https://github.com/elvin2words">
         Elvin Mazwimairi
     </a></b>
-    here
+    here.
     </samp>
 </h3>
 <p align="center">Welcome to my GitHub! I'm...</p>
