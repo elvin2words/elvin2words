@@ -17,7 +17,7 @@
         <br>
         Specializing in energy systems, automation, and intelligent control.
         <br>
-        I design smart systems for EVs, power systems, and industrial automation
+        I design smart systems for EVs, power systems, and industrial automation.
         <br>
     </samp>
 </p>
