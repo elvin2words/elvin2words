@@ -13,11 +13,11 @@
 </p> -->
 <p align="center">
     <samp>
-        An <b>Electrical & Systems Engineer</b> | <b>Embedded Developer</b> with a passion for innovation;
+        An <b>Electrical & Systems Engineer</b> | <b>Embedded Developer</b> passionate about innovation;
         <br>
         Specializing in energy systems, automation, and intelligent control.
         <br>
-        I design smart systems across EVs, power grids, and industrial control.
+        I design smart systems for EVs, power systems, and industrial automation
         <br>
     </samp>
 </p>
