@@ -1,7 +1,7 @@
 <h3 align="center">
     <samp>> Hey hey heyy 
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="margin-right:8px" alt="hi"/>, 
-    <b><a target="_blank" href="https://github.com/elvin2words">
+    <b><a target="_blank" href="https://elvinmazwi.me">
         Elvin Mazwimairi
     </a></b>
     here.
