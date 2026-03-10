@@ -22,27 +22,32 @@
     </samp>
 </p>
 <!-- ─────────────────── TECH STACK ─────────────────── -->
-<h3 align="center">🧠 Engineering & Simulation</h3>
+<h3 align="center">🧠 Engineering Design & Simulation</h3>
 <p align="center">
     <img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-orange?style=flat&logo=Mathworks&logoColor=white">
     <img alt="Simulink" src="https://img.shields.io/badge/-Simulink-darkblue?style=flat&logo=Mathworks&logoColor=white">
     <img alt="ETAP" src="https://img.shields.io/badge/-ETAP-003366?style=flat&logoColor=white">
-    <img alt="PowerFactory" src="https://img.shields.io/badge/-PowerFactory-blue?style=flat&logoColor=white">
-    <img alt="PSCAD" src="https://img.shields.io/badge/-PSCAD-3b3b3b?style=flat&logoColor=white">
+    <img alt="DIgSilentPowerFactory" src="https://img.shields.io/badge/-DIgSilentPowerFactory-blue?style=flat&logoColor=white">
+    <img alt="PSSE" src="https://img.shields.io/badge/-PSSE-3b3b3b?style=flat&logoColor=white">
     <img alt="AutoCAD Electrical" src="https://img.shields.io/badge/-AutoCAD%20Electrical-e34f26?style=flat&logo=autodesk&logoColor=white">
     <img alt="LabVIEW" src="https://img.shields.io/badge/-LabVIEW-fad02e?style=flat&logo=National-Instruments&logoColor=black">
+    <img alt="PVSyst" src="https://img.shields.io/badge/-PVSyst-darkblue?style=flat&logo=PVSyst&logoColor=white">
 </p>
-<h3 align="center">💻 Programming & Embedded Systems</h3>
+<h3 align="center">💻 Programming, Hardware & Embedded Systems</h3>
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white">
   <img alt="C/C++" src="https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
   <img alt="Verilog" src="https://img.shields.io/badge/-Verilog/FPGA-10172a?style=flat&logo=linux&logoColor=37bcf8">
+  <img alt="KiCAD" src="https://img.shields.io/badge/-KiCAD/KiCAD-10172a?style=flat&logo=linux&logoColor=37bcf8">  
+  <img alt="AltiumDesigner" src="https://img.shields.io/badge/-Verilog/AltiumDesigner-10172a?style=flat&logo=linux&logoColor=37bcf8">  
 </p>
-<h3 align="center">🌐 Web & Backend Tools</h3>
+<h3 align="center">🌐 WebApps & Full Stack Tools x Frameworks</h3>
 <p align="center">
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/-React-20232a?style=flat&logo=React&logoColor=61dafb">
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-20232a?style=flat&logo=Next&logoColor=61dafb">  
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-20232a?style=flat&logo=Next&logoColor=61dafb">    
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white">
 </p>
 <!-- Visitor Counter -->
